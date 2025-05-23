@@ -9,8 +9,8 @@ Created to get hands-on with **GitHub Codespaces**, sharpen frontend fundamental
 
 ## 🖼️ Preview
 
-![Calculator Preview](preview.png)  
-> _(Add a screenshot named `preview.png` in your repo root)_
+![image](https://github.com/user-attachments/assets/7eacc742-dac0-4416-9722-a842f563e5ad)
+
 
 ---
 
